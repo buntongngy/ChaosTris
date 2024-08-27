@@ -10,3 +10,6 @@ ChaosTris, is a Simple Tetris game feature both the standard Tetris game mode an
 **SPACE:** Drop Block <br>
 **C:** Hold Block <br>
 **ESC:** Quit the Game <br>
+
+## Credit
+**Font:** https://www.fontspace.com/pixelon-font-f114977
