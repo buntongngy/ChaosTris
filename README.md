@@ -13,3 +13,4 @@ ChaosTris, is a Simple Tetris game feature both the standard Tetris game mode an
 
 ## Credit
 **Font:** https://www.fontspace.com/pixelon-font-f114977
+**Clear Sound:** https://creatorassets.com/a/8-bit-coin-sound-effects
